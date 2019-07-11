@@ -33,7 +33,8 @@ def monopoly_with_third_tier
 	    	  :reading_railroad=>
 	    	  {
 	    	    
-	    	  }
+	    	  },
+	    	  :
 	    	},
 	    	:rent_in_dollars=>
 	    	{
