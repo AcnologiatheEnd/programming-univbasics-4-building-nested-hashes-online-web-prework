@@ -1,5 +1,10 @@
 def monopoly
-	monopoly = {}
+	monopoly = {
+	  :railroads=>
+	  {
+	    :pie
+	  }
+	
 
 end
 
